@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Samuel Ebosele | Cloud Support Portfolio</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="projects.html">Projects</a>
+    <a href="skills.html">Skills</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<section class="hero">
+  <h1>Samuel Ebosele</h1>
+  <p>Cloud Support Specialist • Cloud Administrator</p>
+</section>
+
+<div class="container">
+  <h2 class="section-title">About Me</h2>
+  <p>
+    I am a Cloud Support / Cloud Administrator with hands-on experience in AWS, virtualization, 
+    troubleshooting cloud infrastructure, identity management, networking, and automation. 
+    I enjoy solving problems, supporting users, and maintaining stable, secure cloud environments.
+    I am currently completing a Cloud Computing program to strengthen my technical expertise and 
+    build a strong foundation for a long-term IT career.
+  </p>
+  
+  <p>
+    My goal is to help organizations deploy, manage, and maintain efficient and reliable cloud 
+    platforms while continuously improving system performance and security.
+  </p>
+</div>
+
+<footer>
+  © 2025 – Portfolio of Samuel Ebosele
+</footer>
+
+</body>
+</html>

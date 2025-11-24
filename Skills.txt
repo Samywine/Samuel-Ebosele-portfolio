@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Skills | Samuel Ebosele</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="projects.html">Projects</a>
+    <a href="skills.html">Skills</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h2 class="section-title">Technical Skills</h2>
+
+  <div class="card">
+    <h3>Cloud Platforms</h3>
+    <p>AWS (EC2, S3, IAM, VPC, CloudWatch, Lambda)</p>
+  </div>
+
+  <div class="card">
+    <h3>Systems & Administration</h3>
+    <p>Linux • Windows Server • Active Directory • DNS • DHCP • Virtualization</p>
+  </div>
+
+  <div class="card">
+    <h3>Networking</h3>
+    <p>Subnetting • Security Groups • Firewalls • VPNs • Load Balancing</p>
+  </div>
+
+  <div class="card">
+    <h3>Tools & Automation</h3>
+    <p>Bash • PowerShell • Git • CLI tools • Monitoring dashboards</p>
+  </div>
+
+  <div class="card">
+    <h3>Soft Skills</h3>
+    <p>Problem-Solving • Customer Support • Communication • Teamwork</p>
+  </div>
+</div>
+
+<footer>
+  © 2025 – Portfolio of Samuel Ebosele
+</footer>
+
+</body>
+</html>

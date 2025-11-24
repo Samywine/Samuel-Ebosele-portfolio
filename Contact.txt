@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Contact | Samuel Ebosele</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="projects.html">Projects</a>
+    <a href="skills.html">Skills</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h2 class="section-title">Contact Me</h2>
+
+  <div class="card">
+    <p><strong>Name:</strong> Samuel Ebosele</p>
+    <p><strong>Email:</strong> your-email@example.com</p>
+    <p><strong>Location:</strong> Canada</p>
+    <p>
+      I am open to opportunities in Cloud Support, IT Support, and Cloud Administration roles.
+      Feel free to reach out anytime.
+    </p>
+  </div>
+</div>
+
+<footer>
+  © 2025 – Portfolio of Samuel Ebosele
+</footer>
+
+</body>
+</html>
